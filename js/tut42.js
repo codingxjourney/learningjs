@@ -31,7 +31,7 @@ function getData() {
         console.log(data);
     })
 }
-// getData();
+getData();
 
 function postData() {  
     url = "http://dummy.restapiexample.com/api/v1/create";
